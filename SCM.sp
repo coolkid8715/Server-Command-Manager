@@ -3,16 +3,16 @@
 
 public Plugin myinfo =
 {
-	name = "ServerCommand-Manager",
-	author = "Nirnaba",
-	description = "It makes ServerCommands works.",
+	name = "Server-Command-Manager",
+	author = "coolkid",
+	description = "It makes server commands works.",
 	version = "1.0",
 	url = "http://www.sourcemod.com"
 };
 
 public OnPluginStart()
 {
-	PrintToServer("ServerCommand-Manager is on");
+	PrintToServer("Server-Command-Manager is on");
 }
 
 public OnMapStart()
