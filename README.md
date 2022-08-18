@@ -11,3 +11,5 @@ on this section.
 ex: ServerCommand("sv_barricade_health 500;sv_realism 1");
 
 and you just compile this and add the plugin :3
+
+compiler is here: https://www.sourcemod.net/compiler.php
